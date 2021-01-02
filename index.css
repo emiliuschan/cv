@@ -5,39 +5,39 @@
     border-radius: 50%;
     border: 5px dotted #64873B;
     box-shadow: 0 0 0 6px #64873B;
-    position: absolute;
+    position: fixed;
     top: 4%;
     left: 4%;
 }
 
 #horzvert {
-border: solid 0.5em;
-width: 50em;
-height: 60em;
-border-color: #94BC65 #64873B;
-background-color: #D8F4B6;
-border-radius: 5%;
-margin: 1em;
-padding: 1em;
-margin-top: -1px;
-position: absolute;
-top: 2%;
-left: 20%;
+    border: solid 0.5em;
+    width: 50em;
+    height: 60em;
+    border-color: #94BC65 #64873B;
+    background-color: #D8F4B6;
+    border-radius: 5%;
+    margin: 1em;
+    padding: 1em;
+    margin-top: -1px;
+    position: fixed;
+    top: 2%;
+    left: 20%;
 }
 
 #songlist {
-border: solid 0.5em;
-width: 19em;
-height: 28em;
-border-color: #94BC65 #64873B;
-background-color: #D8F4B6;
-border-radius: 5%;
-margin: 1em;
-padding: 1em;
-margin-top: -1px;
-position: absolute;
-top: 35%;
-left: 0.5%;
+    border: solid 0.5em;
+    width: 19em;
+    height: 28em;
+    border-color: #94BC65 #64873B;
+    background-color: #D8F4B6;
+    border-radius: 5%;
+    margin: 1em;
+    padding: 1em;
+    margin-top: -1px;
+    position: fixed;
+    top: 35%;
+    left: 0.5%;
 }
 
 fieldset {
